@@ -55,7 +55,7 @@ In addition to the APIs above, it has been decided to expose additional endpoint
 
 ## Questions
 
-As part of this test, we want you to think as an engineering manager and explain how you will ensure the successful delivery of the service.
+As part of this test, we want you to think as an engineering manager and explain how you will provide support to the team to ensure a successful delivery of the service.
 
 For instance, and this is not an exhaustive list, how will you address the following points:
 
@@ -67,4 +67,4 @@ For instance, and this is not an exhaustive list, how will you address the follo
 
 * tech debt: what is a good strategy to either avoid or manage tech debt over time
 
-* developer well-being: how can the team flourish and stay positive even in the advent of unexpected delays/issues
+* developer well-being: how can the team flourish and stay positive even in the advent of unexpected delays/issues, additional requirements, etc.
