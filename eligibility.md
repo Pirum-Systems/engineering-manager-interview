@@ -59,12 +59,12 @@ As part of this test, we want you to think as an engineering manager and explain
 
 For instance, and _this is not an exhaustive list_, how will you address the following points:
 
-* overall project roadmap: clients expect a delivery within 6 months as they are currently building their own internal service that will use this API
+* **overall project roadmap**: clients expect a delivery within 6 months as they are currently building their own internal service that will use this API
 
-* getting data out of stakeholders (clients, 3rd parties, POs, etc.): eligibility schedules, assets and accounts have many properties that need to be understand for the team to write a correct implementation of the checking process
+* getting data out of **stakeholders** (clients, 3rd parties, POs, etc.): eligibility schedules, assets and accounts have many properties that need to be understand for the team to write a correct implementation of the checking process
 
-* team workflow: how best can the team make use of its time
+* **team workflow**: how best can the team make use of its time
 
-* tech debt: what is a good strategy to either avoid or manage tech debt over time
+* **tech debt**: what is a good strategy to either avoid or manage tech debt over time
 
-* developer well-being: how can the team flourish and stay positive even in the advent of unexpected delays/issues, additional requirements, etc.
+* **developer well-being**: how can the team flourish and stay positive even in the advent of unexpected delays/issues, additional requirements, etc.
