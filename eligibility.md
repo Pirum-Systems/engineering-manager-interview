@@ -57,7 +57,7 @@ In addition to the APIs above, it has been decided to expose additional endpoint
 
 As part of this test, we want you to think as an engineering manager and explain how you will provide support to the team to ensure a successful delivery of the service.
 
-For instance, and this is not an exhaustive list, how will you address the following points:
+For instance, and _this is not an exhaustive list_, how will you address the following points:
 
 * overall project roadmap: clients expect a delivery within 6 months as they are currently building their own internal service that will use this API
 
